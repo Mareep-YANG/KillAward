@@ -1,0 +1,5 @@
+  name: KillAward
+  main: com.mareep.killaward.main
+  version: 0.1
+  author: Mareep
+  softdepend: [Vault]
